@@ -20,7 +20,7 @@ const CourseInput = props => {
     event.preventDefault();
     if (enteredValue.trim() ==='') {
       setValidInput(false)
-      // inputWarning();
+     
         // alert("please enter something");
         
     } else {
